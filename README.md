@@ -1,3 +1,3 @@
-# My <i>C Primer Plus<i> Exercise Answers
+# My <i>C Primer Plus</i> Exercise Answers
 
 
